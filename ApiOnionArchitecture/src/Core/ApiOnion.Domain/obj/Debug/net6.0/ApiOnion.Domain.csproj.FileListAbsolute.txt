@@ -1,0 +1,12 @@
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Core\ApiOnion.Domain\bin\Debug\net6.0\ApiOnion.Domain.deps.json
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Core\ApiOnion.Domain\bin\Debug\net6.0\ApiOnion.Domain.dll
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Core\ApiOnion.Domain\bin\Debug\net6.0\ApiOnion.Domain.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Core\ApiOnion.Domain\obj\Debug\net6.0\ApiOnion.Domain.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Core\ApiOnion.Domain\obj\Debug\net6.0\ApiOnion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Core\ApiOnion.Domain\obj\Debug\net6.0\ApiOnion.Domain.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Core\ApiOnion.Domain\obj\Debug\net6.0\ApiOnion.Domain.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Core\ApiOnion.Domain\obj\Debug\net6.0\ApiOnion.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Core\ApiOnion.Domain\obj\Debug\net6.0\ApiOnion.Domain.dll
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Core\ApiOnion.Domain\obj\Debug\net6.0\refint\ApiOnion.Domain.dll
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Core\ApiOnion.Domain\obj\Debug\net6.0\ApiOnion.Domain.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Core\ApiOnion.Domain\obj\Debug\net6.0\ref\ApiOnion.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Infrastructure\ApiOnion.Persistence\bin\Debug\net6.0\ApiOnion.Persistence.deps.json
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Infrastructure\ApiOnion.Persistence\bin\Debug\net6.0\ApiOnion.Persistence.dll
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Infrastructure\ApiOnion.Persistence\bin\Debug\net6.0\ApiOnion.Persistence.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Infrastructure\ApiOnion.Persistence\bin\Debug\net6.0\ApiOnion.Domain.dll
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Infrastructure\ApiOnion.Persistence\bin\Debug\net6.0\ApiOnion.Domain.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Infrastructure\ApiOnion.Persistence\obj\Debug\net6.0\ApiOnion.Persistence.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Infrastructure\ApiOnion.Persistence\obj\Debug\net6.0\ApiOnion.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Infrastructure\ApiOnion.Persistence\obj\Debug\net6.0\ApiOnion.Persistence.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Infrastructure\ApiOnion.Persistence\obj\Debug\net6.0\ApiOnion.Persistence.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Infrastructure\ApiOnion.Persistence\obj\Debug\net6.0\ApiOnion.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Infrastructure\ApiOnion.Persistence\obj\Debug\net6.0\ApiOnion.Persistence.csproj.CopyComplete
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Infrastructure\ApiOnion.Persistence\obj\Debug\net6.0\ApiOnion.Persistence.dll
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Infrastructure\ApiOnion.Persistence\obj\Debug\net6.0\refint\ApiOnion.Persistence.dll
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Infrastructure\ApiOnion.Persistence\obj\Debug\net6.0\ApiOnion.Persistence.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\API-Onion-Architecture\ApiOnionArchitecture\src\Infrastructure\ApiOnion.Persistence\obj\Debug\net6.0\ref\ApiOnion.Persistence.dll

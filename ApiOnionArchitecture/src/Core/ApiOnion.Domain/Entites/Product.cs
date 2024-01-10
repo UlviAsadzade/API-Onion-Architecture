@@ -10,7 +10,7 @@ namespace ApiOnion.Domain.Entites
     {
         public string Name { get; set; }
 
-        public string SKU { get; set; }
+        public string Code { get; set; }
 
         public string Image { get; set; }
 
